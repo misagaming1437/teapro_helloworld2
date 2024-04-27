@@ -1,5 +1,5 @@
 {
-    "name": "@misagamingvn/hello-worlds",
+    "name": "@misagamingvn/hello-worlds2",
     "version": "1.1.2",
     "description": "hello worlds",
     "main": "index.js",
@@ -16,10 +16,10 @@
         "POW"
     ],
     "bugs": {
-        "url": "https://github.com/misagaming1437/teapro_helloworld/issues"
+        "url": "https://github.com/misagaming1437/teapro_helloworld2/issues"
     },
-    "homepage": "https://github.com/misagaming1437/teapro_helloworld#readme",
-    "repository": "https://github.com/misagaming1437/teapro_helloworld.git",
+    "homepage": "https://github.com/misagaming1437/teapro_helloworld2#readme",
+    "repository": "https://github.com/misagaming1437/teapro_helloworld2.git",
     "dependencies": {
         "cowsay": "1.5.0",
         "hello-armadillo": "^1.0.0",
